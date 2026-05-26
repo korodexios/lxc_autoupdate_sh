@@ -128,4 +128,3 @@ sed -i -e 's/\r$//' lxc-autoupgrade.sh
 ## License
 
 This project is open-source and available under the MIT License. Feel free to clone, modify, and share!
-```
